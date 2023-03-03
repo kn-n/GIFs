@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Launcher" parent="Theme.GIFs">
+        <item name="android:windowBackground">@drawable/launch_screen</item>
+    </style>
+
+    <style name="regular_20sp">
+        <item name="android:textSize">@dimen/s_20sp</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="regular_16sp">
+        <item name="android:textSize">@dimen/s_16sp</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="regular_14sp">
+        <item name="android:textSize">@dimen/s_14sp</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="semibold_20sp">
+        <item name="android:textSize">@dimen/s_20sp</item>
+        <item name="android:fontFamily">@font/montserrat_semibold</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+</resources>
